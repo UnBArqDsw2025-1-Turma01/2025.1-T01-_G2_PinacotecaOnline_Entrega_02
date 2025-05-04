@@ -11,5 +11,5 @@
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
     - [2.6. Reuniões - Atas](/Modelagem/Atas/ReunioesEAtas.md)
-      - [Ata - Dia 6 - Planejamento Entrega 2](/Modelagem/Atas/Ata29042024.md)
+      - [Ata - Dia 6 - Planejamento Entrega 2](/Modelagem/Atas/Ata29042025.md)
       - [Ata - Dia 7 - Acompanhamento foco 1 e planejamento foco 2](/Modelagem/Atas/Ata03052025.md)
