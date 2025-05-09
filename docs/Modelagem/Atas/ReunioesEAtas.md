@@ -13,8 +13,12 @@ Abaixo estão os links para as atas gravações de todas as reuniões do projeto
 
 ### Maio
 - **[03/05] Acompanhamento do foco 1 e planejamento do foco 2**
-  - [Ata](/Modelagem/Atas/Ata30052025.md)
+  - [Ata](/Modelagem/Atas/Ata03052025.md)
   - [Gravação](https://drive.google.com/file/d/1iWTMiHQrv0-KxwLewmsy6vBh-BWmcMZT/view?usp=sharing)
+
+- **[08/05] Finalização da Entrega 2**
+  - [Ata](/Modelagem/Atas/Ata08052025.md)
+  - [Gravação](https://drive.google.com/file/d/1oatraASDkX5lCmduOWxlFYngx4WciNOW/view?usp=drive_link)
 
 
 
