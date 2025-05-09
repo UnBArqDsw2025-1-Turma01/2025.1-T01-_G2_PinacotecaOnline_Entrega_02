@@ -21,26 +21,37 @@
 
 ## Sobre
 
-Pinacoteca Online é um projeto em constante evolução, desenvolvido no contexto da disciplina "Arquitetura e Desenho de Software". Seu principal objetivo é proporcionar uma experiência digital interativa para a exploração de pinturas em uma pinacoteca virtual. A plataforma oferece acesso a uma ampla coleção de obras pictóricas, acompanhadas de descrições detalhadas e ferramentas de navegação imersiva. O projeto busca democratizar o acesso à arte e incentivar a apreciação cultural por meio de tecnologias web modernas. 🚀🎨
+Pinacoteca Online é um projeto em constante evolução, desenvolvido no contexto da disciplina "Arquitetura e Desenho de Software". Seu principal objetivo é proporcionar uma experiência digital interativa para a exploração de pinturas em uma pinacoteca virtual. A plataforma oferece acesso a uma ampla coleção de obras pictóricas, acompanhadas de descrições detalhadas e ferramentas de navegação imersiva. O projeto busca democratizar o acesso à arte e incentivar a apreciação cultural por meio de tecnologias web modernas.
 
 ## Screenshots da Segunda Entrega
 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+<div style="text-align: center;"> <b>Figura 1:</b> Artefato 1 - Diagrama de Classes</div>
+<div style="text-align: center;"> 
+
+![artefato1](Modelagem/assets/diagrams/Classe%20UML.png)
+
+</div>
+
+<div style="text-align: center;"> <b>Figura 2:</b> Artefato 2 - Diagrama de Componentes</div>
+<div style="text-align: center;"> 
+
+![artefato2](Modelagem/assets/images/DiagramaComponentesv3.png)
+
+</div>
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+<!-- ## Informações Complementares
 
-## Informações Complementares
-
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+Quaisquer outras informações adicionais podem ser descritas nessa seção. -->
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) | Detalhes da Revisão |
-| ------ | ---------- | --------------------------------------------------- | --------------- | ----------- | ------------------- |
-| 1.0    | 16/04/2025 | Criação do documento e adição de informações básica | Leandro Almeida |             |                     |
+| Versão | Data       | Descrição                                           | Autor(es)       | Revisor(es) |
+| ------ | ---------- | --------------------------------------------------- | --------------- | ----------- |
+| 1.0    | 16/04/2025 | Criação do documento e adição de informações básica | Leandro Almeida |             |
+| 1.1    | 09/05/2025 | Adição das Screenshots da Segunda entrega           | Leandro Almeida |             |
