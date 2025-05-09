@@ -17,3 +17,5 @@
       - [Ata - Dia 6 - Planejamento Entrega 2](/Modelagem/Atas/Ata29042025.md)
       - [Ata - Dia 7 - Acompanhamento foco 1 e planejamento foco 2](/Modelagem/Atas/Ata03052025.md)
       - [Ata - Dia 8 - Reunião de finalização da Entrega 2](/Modelagem/Atas/Ata08052025.md)
+  - 3. Iniciativas Extras
+    - [3.1. Diagrama Entidade-Relacionamento](/Modelagem/3.1.DiagramaEntidadeRelacionamento.md)
